@@ -38,27 +38,37 @@ Definir las características y pasos empleados en el método de las corrientes d
 
 5.Procedimiento
 
-	Malla 1: 
-∑▒V=∑▒〖I×R〗
-5V=0.82kΩ(I_1)+1kΩ(I_1-I_(2))
-5V=0.82kΩ(I_1 )+1kΩ(I_1 )-1kΩ(I_2)
-5V=1.82kΩ(I_1 )-1kΩ(I_2 )       →      Ecuación N°1
+- Malla 1: 
 
-	Malla 2:
-∑▒V=∑▒〖I×R〗
-0V=1.2kΩ(I_2 )+2.2kΩ(I_2-I_1 )+1kΩ(I_2-I_3)
-0V=1.2kΩ(I_2 )+2.2kΩ(I_2-I_1 )+1kΩ(I_2-I_3)
-0V=1.2kΩ(I_2 )+2.2kΩ(I_2 )-2.2kΩ(I_3 )+1kΩ(I_2 )-1kΩ(I_1 )
-0V=-1kΩ(I_1 )+4.4kΩ(I_2 )-2.2kΩ(I_3 )          →         Ecuación N°2
+5V=0.82kΩ(I1)+1kΩ(I1-I2)
+
+5V=0.82kΩ(I1)+1kΩ(I1)-1kΩ(I2)
+
+5V=1.82kΩ(I1)-1kΩ(I2)       →      Ecuación N°1
+
+- Malla 2:
+
+0V=1.2kΩ(I2)+2.2kΩ(I2-I1)+1kΩ(I2-I3)
+
+0V=1.2kΩ(I2)+2.2kΩ(I2-I1)+1kΩ(I2-I3)
+
+0V=1.2kΩ(I2)+2.2kΩ(I2)-2.2kΩ(I3)+1kΩ(I2)-1kΩ(I1)
+
+0V=-1kΩ(I1)+4.4kΩ(I2)-2.2kΩ(I3)       →       Ecuación N°2
 
 
-	Malla 3: 
-∑▒V=∑▒〖I×R〗
-10V=0.39kΩ(I_3 )+2.2kΩ(I_3-I_2)
-10V=0.39kΩ(I_3 )+2.2kΩ(I_3 )-2.2kΩ(I_2)
-10V=-2.2kΩ(I_2 )+2.59kΩ(I_3 )           →         Ecuación N°3
+- Malla 3: 
 
-	Ahora resolvemos el sistema de ecuación y obtenemos las siguientes respuestas:
-I_1=5.86mA
-I_2=5.67mA
-I_3=8.86mA
+10V=0.39kΩ(I3)+2.2kΩ(I3-I2)
+
+10V=0.39kΩ(I3)+2.2kΩ(I3)-2.2kΩ(I2)
+
+10V=-2.2kΩ(I2)+2.59kΩ(I3)       →      Ecuación N°3
+
+- Ahora resolvemos el sistema de ecuación y obtenemos las siguientes respuestas:
+
+I1=5.86mA
+
+I2=5.67mA
+
+I3=8.86mA
