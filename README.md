@@ -1,7 +1,7 @@
 # Laboratorio-2-P1
 
-                                                                Universodad de las Fuerzas Armadas - ESPE
-                                                                  Fundamentos de Circuitos Electróinicos
+                                                          Universodad de las Fuerzas Armadas - ESPE
+                                                            Fundamentos de Circuitos Electróinicos
 1.Objetivo
 
 1.1 Objetivo General.
@@ -72,3 +72,12 @@ I1=5.86mA
 I2=5.67mA
 
 I3=8.86mA
+
+
+5.Video
+
+
+6.Conclusiones
+
+
+7.Bibliografía
