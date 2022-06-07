@@ -78,6 +78,8 @@ I2=5.67mA
 
 I3=8.86mA
 
+![image](https://user-images.githubusercontent.com/105684550/172297833-86016d45-5e27-4fed-b468-6699360faef5.png)
+
 - Cálulo de errores de medición en malla 1:
 
 error%=((5,86mA-5.86mA)/5.86mA)×100=0%
