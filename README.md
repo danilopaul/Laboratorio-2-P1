@@ -97,7 +97,13 @@ error%=((5,67mA-5.67mA)/5.68mA)×100=0.11%
 5.Video
 
 
-6.Conclusiones
+6.Conclusiones:
+
+En conclusión, para realizar el análisis de mallas es necesario conocer los conceptos relacionados con la ley de Ohm y ley de voltaje de Kirchhoff, que nos permitir aplicar el método de mallas para calcular la corriente de cada una de ellas.
+
+Los datos que se obtuvieron con el simulador Tinkercard y en el protoboard varían un poico desde ña corriente que ingresa al circuito, sin embargo, se observó que el simulador se obtuvo medidas más precisas a los cálculos cosa que no fue igual con el circuito armado en el protoboard. 
+
+Finalmente, es necesario realizar una comparación de los datos obtenidos mediante la aplicación de las fórmulas para obtener las ecuaciones necesarias y calcular los valores necesarios para cálculo de la corriente en cada malla del circuito propuesto, por lo cual los datos que se obtuvieron en los simuladores varían con los datos medidos en el protoboard y con ellos obtener el cálculo de errores.    
 
 
 7.Bibliografía
