@@ -96,6 +96,8 @@ error%=((5,67mA-5.67mA)/5.68mA)×100=0.11%
 
 5.Video
 
+https://www.youtube.com/watch?v=fx8sM8cLFOU
+
 
 6.Conclusiones:
 
