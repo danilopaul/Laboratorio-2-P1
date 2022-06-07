@@ -37,6 +37,18 @@ Definir las características y pasos empleados en el método de las corrientes d
 
 ![image](https://user-images.githubusercontent.com/105684550/172289922-e23d7ba4-c1c4-49ae-8c24-834adbc7783f.png)
 
+- Cálulo de errores de medición en malla 1:
+
+error%=((5,86mA-5.86mA)/5.86mA)×100=0%
+
+- Cálulo de errores de medición en malla 2:
+
+error%=((5,67mA-5.67mA)/5.67mA)×100=0%
+
+- Cálulo de errores de medición en malla 3:
+
+error%=((5,68mA-5.68mA)/5.68mA)×100=0%
+
 4.Materiales y equipos requeridos
 
 ![image](https://user-images.githubusercontent.com/105684550/172290444-1b32cde8-f3e9-497e-ba3b-95e74281fca5.png)
