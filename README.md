@@ -43,6 +43,8 @@ Definir las características y pasos empleados en el método de las corrientes d
 
 5.Procedimiento
 
+![image](https://user-images.githubusercontent.com/105684550/172298222-4780701a-6aaa-44c0-bafd-640522e1f54e.png)
+
 - Malla 1: 
 
 5V=0.82kΩ(I1)+1kΩ(I1-I2)
