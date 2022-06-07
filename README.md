@@ -43,7 +43,7 @@ Definir las características y pasos empleados en el método de las corrientes d
 
 5.Procedimiento
 
-![image](https://user-images.githubusercontent.com/105684550/172298222-4780701a-6aaa-44c0-bafd-640522e1f54e.png)
+![image](https://user-images.githubusercontent.com/105684550/172298433-9be1b8e5-64ef-4816-a3dc-27a7da35a3ee.png)
 
 - Malla 1: 
 
