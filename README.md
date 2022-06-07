@@ -88,7 +88,7 @@ error%=((5,67mA-5.67mA)/5.67mA)×100=0%
 
 - Cálulo de errores de medición en malla 3:
 
-error%=((5,68mA-5.68mA)/5.68mA)×100=0%
+error%=((5,67mA-5.67mA)/5.68mA)×100=0.11%
 
 5.Video
 
