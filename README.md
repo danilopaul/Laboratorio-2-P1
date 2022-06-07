@@ -1,7 +1,12 @@
 # Laboratorio-2-P1
 
-                                                          Universodad de las Fuerzas Armadas - ESPE
-                                                            Fundamentos de Circuitos Electróinicos
+                                                   Universodad de las Fuerzas Armadas - ESPE
+                                                     Fundamentos de Circuitos Electróinicos
+        Integrantes:
+        - Cholca Paul
+        - Sandal Andrés
+        - Vasquez Lady
+ 
 1.Objetivo
 
 1.1 Objetivo General.
@@ -81,3 +86,5 @@ I3=8.86mA
 
 
 7.Bibliografía
+
+Floyd, TL (2007). Principios de Circuitos Eléctricos. CDMX: Persona Educación.
